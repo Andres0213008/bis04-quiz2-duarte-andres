@@ -36,3 +36,9 @@ a.equals(b): false
 **Nota:** `Asociado.java` aquí es una clase mínima para permitir compilar este
 ejemplo independiente. Si ya tiene la clase `Asociado` desarrollada en la
 Semana 8, mantenga la versión de su proyecto original.
+
+## Descripción del proyecto
+
+Este proyecto simula un sistema de cuentas bancarias.
+Se implementan cuentas de ahorro y cuentas corrientes,
+aplicando herencia, encapsulamiento y sobrescritura de métodos.
