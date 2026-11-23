@@ -42,3 +42,10 @@ Semana 8, mantenga la versión de su proyecto original.
 Este proyecto simula un sistema de cuentas bancarias.
 Se implementan cuentas de ahorro y cuentas corrientes,
 aplicando herencia, encapsulamiento y sobrescritura de métodos.
+
+## Pruebas realizadas
+
+- Se probó el retiro de dinero en cuentas de ahorro.
+- Se probó el retiro de dinero en cuentas corrientes.
+- Se verificó el método equals entre cuentas.
+- Se comprobó el funcionamiento de la herencia.
